@@ -29,6 +29,9 @@ Softwares:
 <br />
 
 <div align="center">
+<a href="https://discord.com/users/387614566802128896" target="_blank">
+<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/allenlin8820" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
