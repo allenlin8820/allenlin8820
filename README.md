@@ -1,12 +1,12 @@
 
 ![68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966](https://user-images.githubusercontent.com/19874467/197956072-de1d9032-3cb7-4bfa-a453-6af4308a3eea.gif)
 
-### 👨🏻‍💻  About Me</div>  
+### 👨🏻‍💻About Me:</div>  
 <br />
 🎓THU→NYUST
 <br />
 <br /> 
-🌱 I’m currently learning
+🌱I’m currently learning</div> 
 <br />
 <br /> 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> 
@@ -20,7 +20,6 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
 <br />
 <br />
 <div align="center">
@@ -47,14 +46,11 @@
 <a href="https://www.instagram.com/allenlin8820/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://www.youtube.com/channel/UCl0xy_GL6yYbazBC_tMIn-w" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
 </p>
-
-
 <!---
 allenlin8820/allenlin8820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
